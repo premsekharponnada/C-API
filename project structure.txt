@@ -1,0 +1,8 @@
+cppAPI consists of 
+CI -- consisting of configuration files for continuous integration
+src -- Directory consisting of source code
+lib -- directory consisting of libraries used
+test -- Directory consisting of test cases
+README.md -- for helping new devs to understand and run the project.
+approach.md -- explains the authors research in creating this repo
+INSTRUCTIONS.md -- for technical guidelines into the project
