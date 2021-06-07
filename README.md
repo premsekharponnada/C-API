@@ -1,1 +1,1 @@
-This repo consists the code for creating API calls to a third party to extract stock prices.
+This repo consists the C++ code for creating API calls to a third party to extract stock prices.
