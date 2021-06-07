@@ -4,6 +4,8 @@ Some of them are included here.
 
 C++ library for using API's: https://github.com/ipkn/crow
 
+https://github.com/Stiffstream/restinio --another library
+
 Creating resful APIs in c++ https://github.com/chandanshoun/CPPRestSDK-server
 
 using mongoDB https://github.com/evanugarte/mongocxx-tutorial
